@@ -10,5 +10,10 @@ export default new Router({
       name: 'index',
       component: () => import('@/views/index/index'),
     }, 
+    {
+      path: '/basic',
+      name: 'basic',
+      component: () => import('@/views/basic/basic'),
+    }, 
   ]
 })
