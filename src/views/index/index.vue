@@ -1,6 +1,6 @@
 <template>
     <div>
-        首页
+        test首页
     </div>
 </template>
 <script>
