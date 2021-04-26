@@ -1,0 +1,23 @@
+{
+  "id": "2494616",
+  "name": "el-icon-917",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "13726956",
+      "name": "4.Patchy light rain in area with thunder",
+      "font_class": "Patchylightraininareawiththunder",
+      "unicode": "e630",
+      "unicode_decimal": 58928
+    },
+    {
+      "icon_id": "18401666",
+      "name": "sunny",
+      "font_class": "sunny",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    }
+  ]
+}
